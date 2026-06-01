@@ -93,7 +93,7 @@ Recomendações baseadas em 'The Hobbit: The Battle of the Five Armies':
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 
-* **Python 3.x**
+* **Python 3.13.9**
 * **Pandas & NumPy:** Manipulação, limpeza e estruturação de dados matriciais.
 * **Scikit-Learn:** Engenharia de atributos (`MinMaxScaler`, `CountVectorizer`) e cálculo de distância angular (`cosine_similarity`).
 * **NLTK (Natural Language Toolkit):** Processamento de linguagem natural e aplicação de Stemming (`PorterStemmer`).
